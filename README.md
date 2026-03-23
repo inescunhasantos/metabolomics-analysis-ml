@@ -9,13 +9,6 @@ The analysis is based on the supplementary file MOESM2 (ESM), which contains GC�
 
 ---
 
-## Context
-
-This work was developed as part of a group project in the Statistical Learning course.
-This repository highlights my contribution and understanding of the full analysis pipeline.
-
----
-
 ## 1. Import Data
 
 - Loaded GC–TOF–MS metabolomics dataset from `41598_2018_29592_MOESM2_ESM.xlsx`.
